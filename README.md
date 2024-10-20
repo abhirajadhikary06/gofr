@@ -1,4 +1,5 @@
-<h1 align="center" style="font-size: 80px;"><b>GoFr</b></h1>
+<h1 align="center" style="font-size: 100px; font-weight: 500;"><b>GoFr</b></h1>
+
 
 <p align="center">
 <img align="center" width="300" alt="logo" src="https://github.com/gofr-dev/gofr/assets/44036979/916fe7b1-42fb-4af1-9e0b-4a7a064c243c">
